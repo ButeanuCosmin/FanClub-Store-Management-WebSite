@@ -1,4 +1,4 @@
-# WebSite using PHP/CSS/JavaScript/SQL
+# WebSite using HTML/PHP/CSS/JavaScript/SQL
 
 This project is a localhost website that uses Ajax JQuery
 
